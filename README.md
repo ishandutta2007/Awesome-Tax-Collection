@@ -1,8 +1,15 @@
-# Awesome-Tax-Collection
+# Awesome-Tax-Collection 💸
 
-## Top Tax Collection Tools Ecosystem
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Tax Collection Banner" width="100%">
+  <br>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
 
-**Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
+## Top Tax Collection Tools Ecosystem 🌍
+
+**A comprehensive, curated list of the best Tax Collection software, SaaS platforms, and Open-Source projects for municipal and government revenue management.** 🏛️🚀  
 *Focused on Municipal & Government Tax Billing, Property Tax, Payment Processing, Revenue Collection & Citizen Portals*  
 **Last updated: August 2026**
 
@@ -14,56 +21,43 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## Table of Contents 📑
+- [SaaS/Hosted Platforms](#saashosted-platforms-)
+- [Open-Source GitHub Projects](#open-source-github-projects-)
+- [How to Contribute](#how-to-contribute-)
+- [Disclaimer](#disclaimer-)
 
-## SaaS/Hosted Platforms
+## SaaS/Hosted Platforms 🏢
 
-- **[Tyler Tax Billing / Tyler Technologies](https://www.tylertech.com/)**  
-  Leading government software suite offering property tax billing, collection, assessment integration, and related municipal revenue management modules.
+| Product 📦 | Description 📝 | Valuation/Revenue 💰 | Pricing 💲 | Free Tier Limit 🆓 |
+|---|---|---|---|---|
+| **[Tyler Tax Billing / Tyler Technologies](https://www.tylertech.com/)** | Leading government software suite offering property tax billing. | $1.9B Revenue | Contact Sales | N/A |
+| **[InvoiceCloud](https://www.invoicecloud.com/)** | Digital billing and payment platform that helps municipalities. | $1B+ Valuation | Contact Sales | N/A |
+| **[ACI Speedpay](https://www.acispeedpay.com/)** | Electronic bill presentment and payment platform. | $1B+ Valuation | Contact Sales | N/A |
+| **[Harris Tax](https://www.harriscomputer.com/)** | Additional specialized platforms covering property tax administration. | $500M+ Revenue | Contact Sales | N/A |
+| **[Point & Pay](https://www.pointandpay.com/)** | Payment processing and cashiering solutions for local governments. | $50M+ Revenue | Contact Sales | N/A |
 
-- **[ACI Speedpay](https://www.acispeedpay.com/)**  
-  Electronic bill presentment and payment platform widely used by government agencies and utilities for online tax and fee collection.
+## Open-Source GitHub Projects 🌐
 
-- **[Point & Pay](https://www.pointandpay.com/)**  
-  Payment processing and cashiering solutions for local governments, supporting online, in-person, and kiosk tax and fee payments.
-
-- **[InvoiceCloud](https://www.invoicecloud.com/)**  
-  Digital billing and payment platform that helps municipalities and utilities present bills and collect payments electronically.
-
-- **[Harris Tax](https://www.harriscomputer.com/)**, **[Springbrook](https://springbrooksoftware.com/)**, **[Edmunds GovTech](https://www.edmundsgovtech.com/)**, **[BS&A Tax](https://www.bsasoftware.com/)**, **[Grant Street Group](https://www.grantstreet.com/)**, **[TaxSys](https://www.taxsys.com/)**  
-  Additional specialized platforms covering property tax administration, billing, collection, online portals, and revenue management for local governments.
-
-## Open-Source GitHub Projects
-
-- **[LocalGov IMS (Income Management System)](https://ndx.digital.cabinet-office.gov.uk/catalogue/aws/localgov-ims/)**  
-  Open-source income management system designed for UK local authorities. Handles council tax, business rates, and other payment types with GOV.UK Pay integration (primarily a learning/demonstration artifact).
-
-- **[OpenSpending](https://github.com/openspending/openspending)**  
-  Open-source tools and platform for gathering, analyzing, and visualizing government financial transactions and budgets around the world.
-
-- **[CACAO (IDB)](https://cacao.iadb.org/)**  
-  Open-source platform developed with Inter-American Development Bank support for tax administrations to receive, validate, process, and analyze taxpayer accounting data.
-
-- **[Municipal / property tax information system prototypes](https://github.com/)**  
-  Various local or research projects (e.g., Real Property Tax Information Systems) that implement assessment, billing, or collection workflows for specific municipalities.
-
-- **[General open-source billing platforms](https://github.com/FOSSBilling)** (FOSSBilling, Kill Bill, and similar)  
-  Self-hosted billing and invoicing systems that can be adapted for certain government fee or subscription-style revenue collection use cases.
-
-- **[Open-source tax calculation engines](https://github.com/)** (OpenTax, tax-engine, IRS Direct File components, OpenTaxSolver, etc.)  
-  Projects focused on individual income tax computation and filing logic. Useful for transparency and rule engines but not for municipal property tax billing/collection.
-
-- **[Country-specific e-invoicing & fiscalization tools](https://github.com/)**  
-  Open-source components for electronic tax invoices, fiscal middleware, and related compliance (more relevant outside pure U.S. local government tax collection).
-
-- **[ERP / financial foundations](https://github.com/frappe/erpnext)** (ERPNext, Odoo Community, etc.)  
+- **[erpnext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Flexible open-source ERP systems that some smaller governments or agencies extend for basic revenue tracking, invoicing, and payment recording.
 
-### Additional Strong Open-Source Options
+- **[openspending](https://github.com/openspending/openspending)** [![GitHub stars](https://img.shields.io/github/stars/openspending/openspending?style=social&color=white)](https://github.com/openspending/openspending/stargazers)  
+  Open-source tools and platform for gathering, analyzing, and visualizing government financial transactions and budgets around the world.
+
+- **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
+  Self-hosted billing and invoicing systems that can be adapted for certain government fee or subscription-style revenue collection use cases.
+
+- **[killbill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+  Open-source billing and payment platform.
+
+- **[localgov-ims](https://github.com/localgov/localgov-ims)** [![GitHub stars](https://img.shields.io/github/stars/localgov/localgov-ims?style=social&color=white)](https://github.com/localgov/localgov-ims/stargazers)  
+  Open-source income management system designed for UK local authorities. Handles council tax, business rates, and other payment types with GOV.UK Pay integration.
+
+- **[CACAO](https://github.com/iadb/cacao)** [![GitHub stars](https://img.shields.io/github/stars/iadb/cacao?style=social&color=white)](https://github.com/iadb/cacao/stargazers)  
+  Open-source platform developed with Inter-American Development Bank support for tax administrations.
+
+### Additional Strong Open-Source Options 🌟
 
 - Custom portals built on modern web stacks + payment gateways for online tax payments.
 - Document management and secure citizen portals that complement commercial tax systems.
@@ -72,7 +66,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Production municipal tax billing and collection almost always rely on specialized commercial platforms due to complex assessment rules, legal requirements, integration with GIS/cadastral systems, and payment compliance. For lighter needs or prototypes, combine an open ERP/billing core with payment gateways, build citizen-facing portals on top of existing data, and use open tax or finance engines for calculation transparency where applicable.
 
-## How to Contribute
+## How to Contribute 🤝
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -81,7 +75,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## Disclaimer ⚠️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Government tax collection systems handle sensitive citizen data and must comply with strict legal, audit, accessibility, and payment-card industry requirements. Open-source components can support transparency or specific functions but are rarely complete replacements for certified municipal tax administration platforms.
@@ -91,3 +85,14 @@ Star the repo if you find it useful!
 
 **Made for local government IT teams, revenue officers, civic technologists, and open-source contributors interested in public-sector finance.**  
 Let's make government revenue systems more transparent and interoperable where possible.
+
+## Star History 📈
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Tax-Collection&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tax-Collection&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tax-Collection&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tax-Collection&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
