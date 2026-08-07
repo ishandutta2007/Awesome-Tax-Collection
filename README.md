@@ -1,6 +1,6 @@
 # Awesome-Tax-Collection
 
-# Top Tax Collection Tools Ecosystem
+## Top Tax Collection Tools Ecosystem
 
 **Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
 *Focused on Municipal & Government Tax Billing, Property Tax, Payment Processing, Revenue Collection & Citizen Portals*  
