@@ -31,11 +31,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product 📦 | Description 📝 | Valuation/Revenue 💰 | Pricing 💲 | Free Tier Limit 🆓 |
 |---|---|---|---|---|
-| **[Tyler Tax Billing / Tyler Technologies](https://www.tylertech.com/)** | Leading government software suite offering property tax billing. | $1.9B Revenue | Contact Sales | N/A |
-| **[InvoiceCloud](https://www.invoicecloud.com/)** | Digital billing and payment platform that helps municipalities. | $1B+ Valuation | Contact Sales | N/A |
-| **[ACI Speedpay](https://www.acispeedpay.com/)** | Electronic bill presentment and payment platform. | $1B+ Valuation | Contact Sales | N/A |
-| **[Harris Tax](https://www.harriscomputer.com/)** | Additional specialized platforms covering property tax administration. | $500M+ Revenue | Contact Sales | N/A |
-| **[Point & Pay](https://www.pointandpay.com/)** | Payment processing and cashiering solutions for local governments. | $50M+ Revenue | Contact Sales | N/A |
+| **[Tyler Tax Billing / Tyler Technologies](https://www.tylertech.com/)** | Leading government software suite offering property tax billing. | $1.9B Revenue | Custom Quote (Based on jurisdiction size/modules) | N/A |
+| **[InvoiceCloud](https://www.invoicecloud.com/)** | Digital billing and payment platform that helps municipalities. | $1B+ Valuation | Custom Pricing (Transaction-fee based model) | N/A |
+| **[ACI Speedpay](https://www.acispeedpay.com/)** | Electronic bill presentment and payment platform. | $1B+ Valuation | Custom Pricing (Per transaction fees) | N/A |
+| **[Harris Tax](https://www.harriscomputer.com/)** | Additional specialized platforms covering property tax administration. | $500M+ Revenue | Custom Quote (Per module/license) | N/A |
+| **[Point & Pay](https://www.pointandpay.com/)** | Payment processing and cashiering solutions for local governments. | $50M+ Revenue | Custom Pricing (Convenience fee model) | N/A |
 
 ## Open-Source GitHub Projects 🌐
 
